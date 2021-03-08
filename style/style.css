@@ -1,10 +1,11 @@
 body{
 /*font-family: */
 /*#2C2C2C*/
+ background-color: red; 
  }
 
 .menu{
-  background: #2C2C2C;
+  background: red;
   height: 4rem;
 }
 .menu ol {
@@ -47,11 +48,11 @@ body{
   white-space: nowrap;
   text-overflow: ellipsis;
   display: block;
-  color: #FFF;
+  color: #2C2C2C;/*cor menu*/
 }
 .sub-menu .menu-item {
   padding: 0.75rem 0;
-  background: #F67280;
+  background: white;/*fundo*/
   opacity: 0;
   transform-origin: bottom;
   animation: enter 0.2s ease forwards;
