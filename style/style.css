@@ -16,7 +16,7 @@ body{
 .menu {
   background-color: #FFFFFF;
   height: 4rem;
-  padding: 10px 10px 10px 10px;
+  /*padding: 10px 10px 10px 10px;*/
 }
 .menu ol {
   list-style-type: none;
@@ -25,7 +25,7 @@ body{
 }
 .menu > ol {
   max-width: 1000px;
-  padding: 0 2rem;
+  padding: 10px 10px 10px 10px;/*teste 01*/
   display: flex;
 }
 .menu > ol > .menu-item {
