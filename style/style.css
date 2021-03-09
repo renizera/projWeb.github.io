@@ -22,6 +22,18 @@ body{
   margin: 0 auto;
   padding: 0px 0px 0px 0px;/*externo*/
 }
+
+
+
+.menu > ol > li{
+  list-style-type: none;
+  margin: 0 auto;
+  padding: 50px 50px 50px 50px;/*externo*/
+}
+
+
+
+
 .menu > ol {
   max-width: 1000px;
   display: flex;
