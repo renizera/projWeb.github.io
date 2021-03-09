@@ -29,7 +29,7 @@ body{
 }
 .menu > ol > .menu-item {
   flex: 1;
-  padding: 10rem 0;
+  padding: 0.75rem 0;
 }
 .menu > ol > .menu-item:after {
   content: "";
@@ -51,6 +51,7 @@ body{
   position: relative;
   line-height: 2.5rem;
   text-align: center;
+  padding: 0px 0px 0px 12px;
 }
 .menu-item a {
   overflow: hidden;
@@ -58,6 +59,7 @@ body{
   text-overflow: ellipsis;
   display: block;
   color: #2C2C2C;
+ 
 }
 .sub-menu .menu-item {
   padding: 0.75rem 0;
