@@ -29,7 +29,7 @@ body{
 }
 .menu > ol > .menu-item {
   flex: 1;
-  padding: 0.75rem 0;
+  padding: 10rem 0;
 }
 .menu > ol > .menu-item:after {
   content: "";
