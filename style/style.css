@@ -11,10 +11,10 @@ body{
     color: white;
     background: url(../img/homepage-CC-lg-pod-tablet.jfif) no-repeat bottom center scroll;
     background-color: black;
-    /*-webkit-background-size: contain;
+    -webkit-background-size: contain;
     -moz-background-size: contain;
     background-size: contain;
-    -o-background-size: contain;*/
+    -o-background-size: contain;
 }
 .menu {
   background-color: #FFFFFF;
