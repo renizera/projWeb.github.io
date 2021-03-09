@@ -84,13 +84,13 @@ img {
 .sub-menu .menu-item a {
   padding: 0 0.75rem;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1125px) {
   .sub-menu .menu-item {
     background-color: #FFFFFF
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1125px) {
   .menu {
     position: relative;
   }
