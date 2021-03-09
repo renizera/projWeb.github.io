@@ -181,6 +181,7 @@ html, body {
   /*font-family: "Fira Mono", monospace;*/
   margin: 0;
   background: #FFF;
+ padding: 100px 100px 100px 100px;/*teste 02*/
 }
 
 * {
