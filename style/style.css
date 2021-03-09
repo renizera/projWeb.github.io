@@ -4,9 +4,9 @@ body{
 
 .imagemcentro {
     position: relative;
-    height: 100vh;
-    width: 100vw;
-    background: url(img/homepage-CC-lg-pod-tablet.jfif);
+    height: 100%;
+    width: 100%;
+    background: url(.../img/homepage-CC-lg-pod-tablet.jfif);
     background-size: cover;
 /*display: block;
     width: 100%;
