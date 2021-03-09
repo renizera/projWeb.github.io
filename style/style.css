@@ -2,24 +2,24 @@ body{
  /*background-color: red !important;*/
 }
 
-#imagemcentro {
-    position: relative;
+.imagemcentro {
+    /*position: relative;
     height: 100vh;
-    width: 100vw;
+    width: 100vw;*/
     background: url('.../img/homepage-CC-lg-pod-tablet.jfif');
-    background-size: cover;
-/*display: block;
+    /*background-size: cover;*/
+    display: block;
     width: 100%;
     height: 100%;
     padding: 0px;
     text-align: center;
     color: white;
-    background: url(img/fundo.jfif) no-repeat bottom center scroll;
+    /*background: url(img/fundo.jfif) no-repeat bottom center scroll;*/
     background-color: black;
     -webkit-background-size: contain;
     -moz-background-size: contain;
     background-size: contain;
-    -o-background-size: contain;*/
+    -o-background-size: contain;
 }
 .menu {
   background-color: #FFFFFF;
