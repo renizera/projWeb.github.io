@@ -5,7 +5,7 @@ body{
 .imagemcentro {
    background-image:url(fundo.jfif);
    background-repeat:repeat;
-   background-position:relative;
+   background-position:;
    text-align:center;
    /*display: block;
    width: 100%;
