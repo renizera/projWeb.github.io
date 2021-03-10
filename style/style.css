@@ -28,7 +28,7 @@ body{
 .menu > ol > li{
   list-style-type: none;
   margin: 0 auto;
-  padding: 50px 50px 50px 50px;/*externo*/
+  padding: 12px 12px 12px 12px;/*externo*/
 }
 
 
