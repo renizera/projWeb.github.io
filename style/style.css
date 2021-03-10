@@ -102,7 +102,7 @@ body{
     background-color: #FFFFFF
   }
 }
-
+/*
 @media screen and (max-width: 600px) {
   .menu {
     position: relative;
@@ -175,7 +175,7 @@ body{
 .menu-item:hover > .sub-menu {
   display: block;
 }
-
+*/
 @media screen and (max-width: 600px) {
   .sub-menu {
     width: 100vw;
