@@ -70,7 +70,7 @@ body{
   text-overflow: ellipsis;
   display: block;
   color: #2C2C2C;/* Cor da letra do menu*/
-  padding: 100px 100px 100px 100px;
+  padding: 12px 12px 12px 12px;
 }
 .sub-menu .menu-item {
   padding: 0.75rem 0;
