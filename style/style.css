@@ -31,7 +31,7 @@ html, body {
 .menu > ol > li{
   list-style-type: none;
   margin: 0 auto;
-  padding: 0px 12px 0px 50px;/*menu*/
+  padding: 12px 12px 12px 12px;/*menu*/
 }
 
 
@@ -73,7 +73,7 @@ html, body {
   text-overflow: ellipsis;
   display: block;
   color: #2C2C2C;/* Cor da letra do menu*/
-  padding: 12px 12px 12px 12px;
+  padding: 0px 12px 0px 50px;
 }
 .sub-menu .menu-item {
   padding: 0.75rem 0;
