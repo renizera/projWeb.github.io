@@ -31,7 +31,7 @@ html, body {
 .menu > ol > li{
   list-style-type: none;
   margin: 0 auto;
-  padding: 12px 12px 12px 12px;/*externo*/
+  padding: 0px 12px 0px 50px;/*menu*/
 }
 
 
