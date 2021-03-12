@@ -12,12 +12,12 @@ h5{
 }
 
 #containerimagem {
-    width: 5%;
+    width: 40px;
     position: relative;
 }
-/*#containerimagem img {
-    width: 100%
-}*/
+#containerimagem img {
+    width: 5%
+}
 img{
   width: auto;
   height: auto;
