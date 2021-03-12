@@ -10,9 +10,16 @@ h5{
   font-family: adobe-clean,Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;
   color: red;
 }
-img{
-   width: auto;
-   height: auto;
+
+#container-da-imagem {
+    width: 300px;
+    position: relative;
+}
+#container-da-imagem img {
+    width: 100%
+}
+img {
+    width: 100%
 }
 
 .txtcentro{
