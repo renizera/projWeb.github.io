@@ -11,11 +11,11 @@ h5{
   color: red;
 }
 
-#container-da-imagem {
+#containerimagem {
     width: 300px;
     position: relative;
 }
-#container-da-imagem img {
+#containerimagem img {
     width: 100%
 }
 img {
