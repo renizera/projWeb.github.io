@@ -12,7 +12,7 @@ h5{
 }
 
 #containerimagem {
-    width: 100%;
+    width: 5%;
     position: relative;
 }
 /*#containerimagem img {
@@ -20,7 +20,7 @@ h5{
 }*/
 img{
   width: auto;
-  height: aut;
+  height: auto;
 }
 
 .txtcentro{
